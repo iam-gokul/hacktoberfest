@@ -27,6 +27,11 @@
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
+ 
+ #### Name: Gokul
+ - Place: Vellore,India
+ - Bio: Student
+ - GitHub: [iam-gokul](https://github.com/iam-gokul)
 
 #### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
